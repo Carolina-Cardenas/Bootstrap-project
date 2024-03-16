@@ -1,0 +1,38 @@
+.nav-link:hover{
+    color: blue;
+
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+body{
+    background-image: url("../img/kittens.png");
+}
+.footer {
+      position: absolute; 
+      bottom: 0; 
+      width: 100%; 
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+}
+  .fab {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: black;
+  }
+  .fab:hover {
+    opacity: 0.7;
+}
+.box{
+    height: 250px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
